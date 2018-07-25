@@ -250,9 +250,7 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-body { 
-    -webkit-text-size-adjust: none;
-}
+
 div { 
     overflow: visible; 
 }
@@ -282,7 +280,4 @@ img {
 }
 div.paragraph {
     position: relative;
-}
-li.full-width {
-    width: 100;
 }
