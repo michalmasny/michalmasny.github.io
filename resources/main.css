@@ -142,22 +142,34 @@
     opacity: 1.00;
 }
 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:link {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
-a:visited {;
+a:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 a:hover {
-    color: forestgreen;
-    text-decoration: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 
+a:active {
+    color: rgb(0, 0, 0);
+    text-decoration: none}
+
 a.class1 {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:hover {
@@ -165,9 +177,11 @@ a.class1:hover {
     text-decoration: underline;
 }
 a.class2 {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:hover {
@@ -175,9 +189,11 @@ a.class2:hover {
     text-decoration: underline;
 }
 a.class3 {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class3:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class3:hover {
@@ -185,9 +201,11 @@ a.class3:hover {
     text-decoration: underline;
 }
 a.class4 {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class4:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class4:hover {
@@ -195,17 +213,19 @@ a.class4:hover {
     text-decoration: underline;
 }
 a.class5 {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 a.class5:visited {
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 a.class5:hover {
-    color: forestgreen;
-    text-decoration: bold;
-}
+   color: rgb(0, 0, 0);
+    text-decoration: bold;}
+
 a.class6 {
     text-decoration: none;
 }
