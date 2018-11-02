@@ -142,13 +142,20 @@
     opacity: 1.00;
 }
 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
+    color: black;
+    text-decoration: none;
 }
+
 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
+    color: black;
+    text-decoration: none;
 }
+
+a:hover {
+    color: forestgreen;
+    text-decoration: bold;
+}
+
 a.class1 {
     text-decoration: none;
 }
@@ -189,15 +196,15 @@ a.class4:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-a.class5 {
-    text-decoration: none;
-}
+a.class5 
+
 a.class5:visited {
     text-decoration: none;
 }
+
 a.class5:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    color: forestgreen;
+    text-decoration: bold;
 }
 a.class6 {
     text-decoration: none;
@@ -238,10 +245,7 @@ a.class9:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
+
 .bumper {
     font-size: 1px;
     line-height: 1px;
