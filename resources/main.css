@@ -142,26 +142,26 @@
     opacity: 1.00;
 }
 a {
-    color: darkblue;
+    color: mediumblue;
     text-decoration: none;
 }
 a:link {
-    color: darkblue;
+    color: mediumblue;
     text-decoration: none;
 }
 
 a:visited {
-    color: darkblue;
+    color: mediumblue;
     text-decoration: none;
 }
 
 a:hover {
-    color: darkblue;
-    text-decoration: none;
+    color: mediumblue;
+    text-decoration: underline;
 }
 
 a:active {
-    color: darkblue);
+    color: mediumblue;
     text-decoration: none}
 
 a.class1 {
