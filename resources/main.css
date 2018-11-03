@@ -142,26 +142,26 @@
     opacity: 1.00;
 }
 a {
-    color: rgb(0, 0, 0);
+    color: blue;
     text-decoration: none;
 }
 a:link {
-    color: rgb(0, 0, 0);
+    color: blue;
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(0, 0, 0);
+    color: blue;
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
+    color: blue;
+    text-decoration: none;
 }
 
 a:active {
-    color: rgb(0, 0, 0);
+    color: blue);
     text-decoration: none}
 
 a.class1 {
