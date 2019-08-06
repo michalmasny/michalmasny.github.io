@@ -310,12 +310,6 @@ div {
   display: table;
   clear: both;
 }
-.column25 {
-  float: left;
-  width: 33%;
-  padding: 0px;
-}
-}
 img { 
     border: none; 
 }
