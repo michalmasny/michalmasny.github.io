@@ -166,26 +166,26 @@
     opacity: 1.00;
 }
 a {
-    color: mediumblue;
+    color: coral;
     text-decoration: none;
 }
 a:link {
-    color: mediumblue;
+    color: coral;
     text-decoration: none;
 }
 
 a:visited {
-    color: mediumblue;
+    color: coral;
     text-decoration: none;
 }
 
 a:hover {
-    color: mediumblue;
+    color: coral;
     text-decoration: underline;
 }
 
 a:active {
-    color: mediumblue;
+    color: coral;
     text-decoration: none}
 
 a.class1 {
@@ -326,7 +326,6 @@ div {
   width: 33%;
   padding: 0px;
 }
-
 
 /* Clear floats after the columns */
 .row:after {
