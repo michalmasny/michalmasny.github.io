@@ -166,26 +166,28 @@
     opacity: 1.00;
 }
 a {
-    color: coral;
+    color: royalblue;
     text-decoration: none;
 }
 a:link {
-    color: coral;
+    color: steelblue;
     text-decoration: none;
+    
 }
 
 a:visited {
-    color: coral;
+    color: steelblue;
     text-decoration: none;
 }
 
 a:hover {
-    color: coral;
-    text-decoration: underline;
+    color: steelblue;
+    text-decoration: none;
+    border-bottom: 1px steelblue dotted;
 }
 
 a:active {
-    color: coral;
+    color: steelblue;
     text-decoration: none}
 
 a.class1 {
@@ -198,7 +200,7 @@ a.class1:visited {
 }
 a.class1:hover {
     color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class2 {
     color: rgb(0, 0, 0);
@@ -210,7 +212,7 @@ a.class2:visited {
 }
 a.class2:hover {
     color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class3 {
     color: rgb(0, 0, 0);
@@ -222,7 +224,7 @@ a.class3:visited {
 }
 a.class3:hover {
     color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class4 {
     color: rgb(0, 0, 0);
@@ -234,7 +236,7 @@ a.class4:visited {
 }
 a.class4:hover {
     color: rgb(0, 0, 0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 a.class5 {
     color: rgb(0, 0, 0);
