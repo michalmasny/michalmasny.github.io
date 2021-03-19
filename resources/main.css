@@ -28,12 +28,12 @@
 .paragraph_style_2 {
     color: rgb(65, 65, 65);
     font-family: 'Avenir-Book', 'Avenir';
-    font-size: 48px;
+    font-size: 36px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
-    letter-spacing: 0;
+    letter-spacing: 4px;
     line-height: 66px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -42,7 +42,7 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: left;
+    text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
