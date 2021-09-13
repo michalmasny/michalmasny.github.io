@@ -181,9 +181,13 @@ a:visited {
 }
 
 a:hover {
-    color: steelblue;
     text-decoration: none;
-    border-bottom: 1px steelblue dotted;
+    border-bottom: 1px black dotted;
+}
+
+u.dotted{
+  border-bottom: 1px black dotted;
+  text-decoration: none; 
 }
 
 a:active {
@@ -362,3 +366,4 @@ img {
 div.paragraph {
     position: relative;
 }
+
