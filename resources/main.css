@@ -97,6 +97,31 @@
     text-transform: none;
 }
 
+/*BODY*/
+.paragraph_style_6 {
+    color: blue;
+    font-family: 'Avenir-Light', 'Avenir';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing:    -0.02em;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 53px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+
 /*Abstracts*/
 .paragraph_style_5 {
     color: rgb(0, 0, 0);
@@ -367,3 +392,148 @@ div.paragraph {
     position: relative;
 }
 
+/*PHOTOGRAPHY*/
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 10px;
+}
+
+/* Create three equal columns that sits next to each other */
+.column2-vertical {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+    text-align: center;
+  max-width: 50%;
+  padding: 10px;
+}
+
+.column2-vertical img {
+  margin-top: 10px;
+  vertical-align: middle;
+    margin: auto;
+    max-height: 600px;
+      max-width: 100%;
+}
+
+.column2-horizontal {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+    text-align: center;
+  max-width: 50%;
+  padding: 10px;
+}
+
+.column2-horizontal img {
+  margin-top: 10px;
+  vertical-align: middle;
+    margin: auto;
+    max-height: 600px;
+      max-width: 100%;
+}
+    
+     .column3-vertical {
+  -ms-flex: 33%; /* IE10 */
+  flex: 33%;
+    text-align: center;
+  max-width: 33%;
+  padding: 10px;
+}
+
+.column3-vertical img {
+  margin-top: 10px;
+  vertical-align: middle;
+  width: 100%;
+}
+    
+    .column3-horizontal {
+  -ms-flex: 33%; /* IE10 */
+  flex: 33%;
+    text-align: center;
+  max-width: 33%;
+  padding: 10px;
+}
+
+.column3-horizontal img {
+  margin-top: 10px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column3-vertical {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 33%;
+  }
+}
+    @media screen and (max-width: 800px) {
+  .column3-horizontal {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 33%;
+  }
+}
+    
+    @media screen and (max-width: 800px) {
+  .column2-vertical {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+    
+       @media screen and (max-width: 800px) {
+  .column2-horizontal {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+    
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column2-vertical {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+    
+    @media screen and (max-width: 600px) {
+  .column2-horizontal {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+    
+    @media screen and (max-width: 600px) {
+  .column3-vertical {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+    
+    @media screen and (max-width: 600px) {
+  .column3-horizontal {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+mark.blue {
+    color:steelblue;
+    background: none;
+}
