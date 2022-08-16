@@ -122,7 +122,7 @@
 }
 
 
-/*Abstracts*/
+/*Tables*/
 .paragraph_style_5 {
     color: rgb(0, 0, 0);
     font-family: 'Avenir-Light', 'Avenir';
@@ -134,8 +134,55 @@
     letter-spacing:    -0.02em;
     line-height: 22px;
     margin-bottom: 0px;
-    margin-left: 25px;
-    margin-right: 53px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+.table {
+    font-family: 'Avenir-Light', 'Avenir';
+    font-size: 15px;
+    border-collapse: collapse;
+}
+
+.tr {
+    border: 0px solid #dddddd;
+    width: 100px;
+    vertical-align: top;
+  text-align: left;
+  padding: 0px;
+    
+}
+
+.td, th {
+  border: 0px solid #dddddd;
+    min-width: 100px;
+    vertical-align: top;
+  text-align: left;
+  padding: 0px;
+}
+
+    
+.list {
+	font-family: 'Avenir-Light', 'Avenir';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing:    -0.02em;
+    line-height: 22px;
+    margin: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
     margin-top: 0px;
     opacity: 1.00;
     padding-bottom: 12px;
