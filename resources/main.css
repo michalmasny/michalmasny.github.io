@@ -99,7 +99,7 @@
 
 /*BODY*/
 .paragraph_style_6 {
-    color: blue;
+    color: black;
     font-family: 'Avenir-Light', 'Avenir';
     font-size: 15px;
     font-stretch: normal;
@@ -109,7 +109,7 @@
     letter-spacing:    -0.02em;
     line-height: 22px;
     margin-bottom: 0px;
-    margin-left: 0px;
+    margin-left: 20px;
     margin-right: 53px;
     margin-top: 0px;
     opacity: 1.00;
