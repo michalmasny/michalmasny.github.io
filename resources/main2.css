@@ -1,0 +1,588 @@
+/*FONTS*/
+
+/*TABS*/
+.paragraph_style_1 {
+    color: rgb(88, 77, 77);
+    font-family: 'Avenir-Book', 'Avenir';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 23px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+/*BIG NAME*/
+.paragraph_style_2 {
+    color: rgb(65, 65, 65);
+    font-family: 'Avenir-Book', 'Avenir';
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 4px;
+    line-height: 66px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+/*SECTION HEADINGS*/
+.paragraph_style_3 {
+    color: rgb(0, 0, 0);
+    font-family: 'Avenir-Light', 'Avenir';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing:    -0.02em;
+    line-height: 40px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 53px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+
+/*BODY*/
+.paragraph_style_4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Avenir-Book', 'Avenir';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing:    -0.02em;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 53px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+/*Tables*/
+.paragraph_style_5 {
+    color: rgb(0, 0, 0);
+    font-family: 'Avenir-Light', 'Avenir';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing:    -0.02em;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 53px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+/*BODY*/
+.paragraph_style_6 {
+    color: black;
+    font-family: 'Avenir-Light', 'Avenir';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing:    -0.02em;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 53px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+
+
+
+.table {
+    font-family: 'Avenir-Light', 'Avenir';
+    font-size: 15px;
+    border-collapse: collapse;
+}
+
+.tr {
+    border: 0px solid #dddddd;
+    width: 100px;
+    vertical-align: top;
+  text-align: left;
+  padding: 0px;
+    
+}
+
+.td, th {
+  border: 0px solid #dddddd;
+    min-width: 100px;
+    vertical-align: top;
+  text-align: left;
+  padding: 0px;
+}
+
+    
+.list {
+	font-family: 'Avenir-Light', 'Avenir';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing:    -0.02em;
+    line-height: 22px;
+    margin: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+
+.style {
+    letter-spacing:    -0.01em;
+    line-height: 22px;
+}
+.style_1 {
+    font-family: 'Avenir-LightOblique', 'Avenir';
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 200;
+    line-height: 22px;
+}
+
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+
+
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default_External_557_44 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_375_74 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_398_674 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: royalblue;
+    text-decoration: none;
+}
+a:link {
+    color: steelblue;
+    text-decoration: none;
+    
+}
+
+a:visited {
+    color: steelblue;
+    text-decoration: none;
+}
+
+u.dotted{
+  border-bottom: 1px black dotted;
+  text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: none;
+    border-bottom: 1px black dotted;
+}
+
+a:active {
+    color: steelblue;
+    text-decoration: none}
+
+a.class1 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class1:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class1:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class2 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class2:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class2:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class3 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class3:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class3:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class4 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class4:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class4:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.class5 {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a.class5:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a.class5:hover {
+   color: rgb(0, 0, 0);
+    text-decoration: bold;}
+
+a.class6 {
+    text-decoration: none;
+}
+a.class6:visited {
+    text-decoration: none;
+}
+a.class6:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class7 {
+    text-decoration: none;
+}
+a.class7:visited {
+    text-decoration: none;
+}
+a.class7:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+a.class8 {
+    text-decoration: none;
+}
+a.class8:visited {
+    text-decoration: none;
+}
+a.class8:hover {
+    text-decoration: none;
+}
+a.class9 {
+    text-decoration: none;
+}
+a.class9:visited {
+    text-decoration: none;
+}
+a.class9:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+
+div { 
+    overflow: visible; 
+
+    }
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 17%;
+  padding: 0px;
+        
+}
+.column2 {
+  float: left;
+  width: 83%;
+  padding: 0px;
+}
+.column25 {
+  float: left;
+  width: 25%;
+  padding: 0px;
+}
+
+.column33 {
+  float: left;
+  width: 33%;
+  padding: 0px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+
+/*PHOTOGRAPHY*/
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 10px;
+}
+
+/* Create three equal columns that sits next to each other */
+.column2-vertical {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+    text-align: center;
+  max-width: 50%;
+  padding: 10px;
+}
+
+.column2-vertical img {
+  margin-top: 10px;
+  vertical-align: middle;
+    margin: auto;
+    max-height: 600px;
+      max-width: 100%;
+}
+
+.column2-horizontal {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+    text-align: center;
+  max-width: 50%;
+  padding: 10px;
+}
+
+.column2-horizontal img {
+  margin-top: 10px;
+  vertical-align: middle;
+    margin: auto;
+    max-height: 600px;
+      max-width: 100%;
+}
+    
+     .column3-vertical {
+  -ms-flex: 33%; /* IE10 */
+  flex: 33%;
+    text-align: center;
+  max-width: 33%;
+  padding: 10px;
+}
+
+.column3-vertical img {
+  margin-top: 10px;
+  vertical-align: middle;
+  width: 100%;
+}
+    
+    .column3-horizontal {
+  -ms-flex: 33%; /* IE10 */
+  flex: 33%;
+    text-align: center;
+  max-width: 33%;
+  padding: 10px;
+}
+
+.column3-horizontal img {
+  margin-top: 10px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column3-vertical {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 33%;
+  }
+}
+    @media screen and (max-width: 800px) {
+  .column3-horizontal {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 33%;
+  }
+}
+    
+    @media screen and (max-width: 800px) {
+  .column2-vertical {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+    
+       @media screen and (max-width: 800px) {
+  .column2-horizontal {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+    
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column2-vertical {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+    
+    @media screen and (max-width: 600px) {
+  .column2-horizontal {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+    
+    @media screen and (max-width: 600px) {
+  .column3-vertical {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+    
+    @media screen and (max-width: 600px) {
+  .column3-horizontal {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+mark.blue {
+    color:steelblue;
+    background: none;
+}
